@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/7yYjtIGeljp6qZhu/raw", true))()
+ID="3a5a2b4b-12c7-4193-8bba-99e08ba6e39a";
+loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
